@@ -1,0 +1,12 @@
+
+footer{
+  border-top: 2px solid black;
+  text-align: center;
+  background-color: gray;
+  padding: 3.5px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
