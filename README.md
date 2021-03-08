@@ -19,8 +19,11 @@ Criar um e-commerce com os dados disponibilizados pelo arquivo JSON
 ## Requisitos funcionais
 
 - O usuário poderá adicionar produtos ao carrinho de acordo com sua preferência.
-- O usuário pode gerenciar os produtos adicionados no carrinho através da aba carrinho.
-- O usuário poderá ordenar os produtos para melhor visualização ( ordem alfabética, maior preço, menor preço e popularidade )
+- O usuário pode remover os produtos adicionados através da aba carrinho.
+- O usuário poderá ordenar os produtos para melhor visualização ( ordem alfabética, maior preço, menor preço e popularidade ).
+- Calculo automático do frete, subtotal e total que são disponibilizados na aba carrinho.
+- Frete gratis para compras acima de R$ 250,00.
+- Todas as informações relacionadas a valores ficam ocultas na aba carrinho por questões de segurança.
  
 ## Requisitos não-funcionais
 
