@@ -27,6 +27,18 @@ Criar um e-commerce com os dados disponibilizados pelo arquivo JSON
 - Layout responsivo para qualquer dispositivo.
 - Cores dos componentes de acordo com padrões para melhor entendimento das funcionalidades ( botão de compra verde, remoção vermelho, etc )
 - Visando UX, o layout do carrinho atualiza automaticamente ao colocar um produto no carrinho.
- 
+
+## Produto
+
+![image](https://user-images.githubusercontent.com/67290959/110389688-a12a4c00-8043-11eb-85d9-e85856affde1.png)
+
+Carrinho
+
+![image](https://user-images.githubusercontent.com/67290959/110389779-c15a0b00-8043-11eb-8750-d530f161e814.png)
+
+Responsivo
+
+![image](https://user-images.githubusercontent.com/67290959/110389909-f1a1a980-8043-11eb-84ed-173ae229653c.png)
+
 
 
